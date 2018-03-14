@@ -43,5 +43,3 @@ else
   move(board, input)
 end
 
-display_board(board)
-end
